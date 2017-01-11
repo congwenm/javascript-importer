@@ -1,7 +1,7 @@
 {
   "name": "javascript-importer",
   "main": "./lib/importer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Inserts import statements in the beginning of file without moving the cursor.",
   "keywords": [],
   "activationCommands": {

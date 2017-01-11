@@ -1,0 +1,18 @@
+{
+  "context-menu": {
+    "atom-text-editor": [{
+      "label": "Importer",
+      "command": "importer:begin-import"
+    }]
+  },
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "importer",
+      "submenu": [{
+        "label": "Import",
+        "command": "importer:begin-import"
+      }]
+    }]
+  }]
+}
